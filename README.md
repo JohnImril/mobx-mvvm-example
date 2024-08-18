@@ -47,11 +47,11 @@ A text input control that displays suggestions based on user input. The suggesti
     npm install
     ```
 3. Install dependencies:
-    ````bash
+    ```bash
     npm start
-     ```
-    The application will be available at http://localhost:3000.
-    ````
+    ```
+
+The application will be available at `http://localhost:3000`.
 
 ## Project Structure
 
