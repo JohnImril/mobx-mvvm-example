@@ -1,0 +1,23 @@
+.button-control {
+	display: flex;
+	align-items: center;
+	margin-bottom: 10px;
+	gap: 10px;
+}
+
+.button-control__input {
+	flex: 1;
+	padding: 5px;
+	font-size: 14px;
+}
+
+.button-control__buttons {
+	display: flex;
+	gap: 10px;
+}
+
+.button-control__button {
+	padding: 5px 10px;
+	font-size: 14px;
+	cursor: pointer;
+}

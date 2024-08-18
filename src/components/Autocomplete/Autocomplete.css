@@ -1,0 +1,37 @@
+.autocomplete {
+	position: relative;
+	margin-bottom: 10px;
+}
+
+.autocomplete__input {
+	width: 100%;
+	padding: 5px;
+	font-size: 14px;
+}
+
+.autocomplete__suggestions {
+	position: absolute;
+	top: 100%;
+	left: 0;
+	right: 0;
+	background-color: white;
+	border: 1px solid #ccc;
+	max-height: 200px;
+	overflow-y: auto;
+	z-index: 10;
+}
+
+.autocomplete__suggestion {
+	padding: 5px;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+}
+
+.autocomplete__suggestion:hover {
+	background-color: #f0f0f0;
+}
+
+.autocomplete__suggestion img {
+	margin-right: 10px;
+}
