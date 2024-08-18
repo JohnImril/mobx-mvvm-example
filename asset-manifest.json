@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mobx-mvvm-example/static/css/main.e2870af7.css",
+    "main.js": "/mobx-mvvm-example/static/js/main.77ec7cbc.js",
+    "index.html": "/mobx-mvvm-example/index.html",
+    "main.e2870af7.css.map": "/mobx-mvvm-example/static/css/main.e2870af7.css.map",
+    "main.77ec7cbc.js.map": "/mobx-mvvm-example/static/js/main.77ec7cbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2870af7.css",
+    "static/js/main.77ec7cbc.js"
+  ]
+}
